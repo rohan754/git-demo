@@ -6,7 +6,7 @@ public class Testing {
 		// TODO Auto-generated method stub
 
 		System.out.println("Learning Git...");
-		
+		System.out.pritnln("Git is very Wonderful in Functionality...");
 	}
 
 }
